@@ -12,8 +12,6 @@ Task 1
 
 
 ![image](https://user-images.githubusercontent.com/78844727/178138827-bd7367e1-cb7e-43f8-9fe2-93857475348a.png)
-
-
 Evaluation Criteria
 2: Angular default application is up and working
 3: Bootstrap is installed and configured to be used with some demonstration
