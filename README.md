@@ -1,10 +1,5 @@
 # Angular-HomeTask1
 
-Prerequisites
-•	VS Code
-•	node JS
-•	git bash
-•	angular cli
 
 Task 1
 •	Create a basic Angular application using Angular CLI
@@ -17,7 +12,6 @@ Task 1
 
 
 ![image](https://user-images.githubusercontent.com/78844727/178138827-bd7367e1-cb7e-43f8-9fe2-93857475348a.png)
-
 
 
 Evaluation Criteria
